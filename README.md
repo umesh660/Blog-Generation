@@ -7,6 +7,8 @@ This project is a web application that generates blog content based on user inpu
 - **Input Fields**: Users can enter the blog topic and specify the number of words.
 - **Blog Style Selection**: Users can choose the style of the blog (Researcher, Data Scientist, Common).
 - **Blog Generation**: On clicking the "Generate" button, the app generates a blog using the LLaMA-2 model.
+## Download the model from 
+    - https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
 ## Requirements
 
