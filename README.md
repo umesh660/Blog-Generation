@@ -21,8 +21,14 @@ This project is a web application that generates blog content based on user inpu
    ```bash
    git clone https://github.com/yourusername/blog-generator.git
    cd blog-generator
-2. **python -m venv venv**
+2. **Create and Activate Virtual Environment:**
    ```bash
    .\venv\Scripts\activate
-3. 
+
+3. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+4. **Run the Application:**
+   ```bash
+   streamlit run app.py
   
