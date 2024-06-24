@@ -21,3 +21,8 @@ This project is a web application that generates blog content based on user inpu
    ```bash
    git clone https://github.com/yourusername/blog-generator.git
    cd blog-generator
+2. **python -m venv venv**
+   ```bash
+   .\venv\Scripts\activate
+3. 
+  
